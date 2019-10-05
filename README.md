@@ -4,8 +4,8 @@ StrackOut x Wanted !
 
 Resources that defined in this package are used at "strack-wanted-site" & "strack-wanted-server".
 
-This package is managed at npmjs.
+This package is uploaded to npm repository.
 
-### Customize configuration
-See [Configuration Reference](https://www.npmjs.com/package/strack-wanted-meta/).
+### Npm repository
+See [npmjs](https://www.npmjs.com/package/strack-wanted-meta/).
 
