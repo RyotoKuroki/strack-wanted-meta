@@ -1,5 +1,5 @@
 # strack-wanted-meta
 
-It is meta-classes for webservice "strack-wanted".
+Resources that defined in this package are used at "strack-wanted-web" & "strack-wanted-server".
 
 
