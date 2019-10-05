@@ -7,5 +7,5 @@ Resources that defined in this package are used at "strack-wanted-site" & "strac
 This package is uploaded to npm repository.
 
 ### Npm repository
-See [npmjs](https://www.npmjs.com/package/strack-wanted-meta/).
+See [npmjs@strack-wanted-meta](https://www.npmjs.com/package/strack-wanted-meta/).
 
