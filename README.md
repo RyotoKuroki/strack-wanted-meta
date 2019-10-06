@@ -2,7 +2,7 @@
 
 StrackOut x Wanted !
 
-Resources that are defined in this package are used at "strack-wanted-site" & "strack-wanted-server".
+Resources that were defined in this package are used at "strack-wanted-site" & "strack-wanted-server".
 
 This package is uploaded to npm repository.
 
