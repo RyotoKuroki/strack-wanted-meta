@@ -3,8 +3,8 @@
 StrackOut x Wanted !
 
 このパッケージは、以下のプロジェクトで使用する定義群です。
-・strack-wanted-server
-・strack-wanted-site
+　・strack-wanted-server
+　・strack-wanted-site
 
 上記の通り、複数のプロジェクトで同期を取る必要があるものを定義し、
 横断的に使用する想定です！
