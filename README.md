@@ -18,7 +18,7 @@ StrackOut x Wanted !
 $ npm i strack-wanted-meta --save<br>
 <br>
 <br>
-[補足]<br>
+[他に何か？]<br>
 このパッケージは、npm リポジトリに登録しています。<br>
 <br>
 ### Npm repository<br>
