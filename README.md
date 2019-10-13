@@ -15,12 +15,11 @@ StrackOut x Wanted !
 <br>
 テーブル構造を変更した場合、サーバ側・クライアント側の両方に同期して反映される必要があります。<br>
 このパッケージを利用するプロジェクトは、以下のコマンドを叩くだけでインターフェイスの同期が行えるようになります。<br>
-npm i strack-wanted-meta --save<br>
+$ npm i strack-wanted-meta --save<br>
 <br>
 <br>
-[補足]
+[補足]<br>
 このパッケージは、npm リポジトリに登録しています。<br>
 <br>
-### Npm repository
-See [npmjs@strack-wanted-meta](https://www.npmjs.com/package/strack-wanted-meta/).
-
+### Npm repository<br>
+See [npmjs@strack-wanted-meta](https://www.npmjs.com/package/strack-wanted-meta/).<br>
