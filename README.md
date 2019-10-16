@@ -2,13 +2,13 @@
 
 StrackOut x Wanted !
 
-[このパッケージは何？]<br>
+### このパッケージは何？<br>
 このパッケージは、以下のプロジェクト内で使用する定義を寄せ集めたパッケージです。<br>
 ・strack-wanted-server<br>
 ・strack-wanted-site<br>
 <br>
 <br>
-[なぜこの定義だけのパッケージが必要？]<br>
+### なぜこの定義だけのパッケージが必要？<br>
 上記の通り、複数（２つ）のプロジェクトで同期を取る必要があるものを定義しています。<br>
 例）<br>
 　テーブル定義（エンティティのインターフェイス）<br>
@@ -18,7 +18,7 @@ StrackOut x Wanted !
 $ npm i strack-wanted-meta --save<br>
 <br>
 <br>
-[他に何か？]<br>
+### 他に何か？<br>
 このパッケージは、npm リポジトリに登録しています。<br>
 <br>
 ### Npm repository<br>
