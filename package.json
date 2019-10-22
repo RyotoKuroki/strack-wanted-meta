@@ -1,6 +1,6 @@
 {
   "name": "strack-wanted-meta",
-  "version": "1.0.2",
+  "version": "1.0.6",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -18,6 +18,8 @@
   "homepage": "https://github.com/RyotoKuroki/strack-wanted-meta#readme",
   "devDependencies": {
     "@types/typescript": "^2.0.0",
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
     "tsc": "^1.20150623.0",
     "typescript": "^3.6.3"
   }
