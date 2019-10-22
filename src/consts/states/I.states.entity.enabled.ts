@@ -1,3 +1,6 @@
+
+// TODO: static, not interface
+
 /**
  * エンティティ利用可否状態の定義
  */

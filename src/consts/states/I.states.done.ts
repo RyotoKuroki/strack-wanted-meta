@@ -1,3 +1,6 @@
+
+// TODO: static, not interface
+
 /**
  * ターゲット確保状態の定義
  */
