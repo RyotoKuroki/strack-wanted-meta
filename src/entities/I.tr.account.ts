@@ -1,4 +1,4 @@
-import ITR_Base from './ITR_Base';
+import ITR_Base from './I.tr.base';
 
 export default interface ITR_Account extends ITR_Base {
     user_name: string;
