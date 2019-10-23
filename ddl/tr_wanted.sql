@@ -1,7 +1,7 @@
 CREATE TABLE `tr_wanted` (
   `uuid` varchar(256) NOT NULL,
   `whois` varchar(256) DEFAULT NULL,
-  `revision` int(11) DEFAULT NULL,
+  `revision` int(11) DEFAULT '1',
   `name` varchar(256) DEFAULT NULL,
   `prize_money` decimal(11,0) DEFAULT NULL,
   `image` mediumblob,
