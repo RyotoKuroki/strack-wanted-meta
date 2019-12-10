@@ -4,7 +4,6 @@ CREATE TABLE `tr_wanted` (
   `revision` int(11) DEFAULT '1',
   `name` varchar(256) DEFAULT NULL,
   `prize_money` decimal(11,0) DEFAULT NULL,
-  `image` mediumblob,
   `warning` varchar(256) DEFAULT NULL,
   `image_base64` longtext,
   `done` varchar(256) DEFAULT NULL,
